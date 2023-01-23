@@ -1,5 +1,5 @@
 # Bisection-Method
-A method for finding root
+A method for finding root.
 It separates the interval and
 subdivides the interval in which the root of the equation lies. The principle behind this
 method is the intermediate theorem for continuous functions. It works by narrowing the
